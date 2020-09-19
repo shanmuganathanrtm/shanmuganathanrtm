@@ -9,8 +9,4 @@ main()
    {
    //function2 added
    }
-   function3()
-   {
-   //function3 added
-   }
 }
